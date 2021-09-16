@@ -20,7 +20,8 @@
 </details>
 
 ## Installation
-Runs in browser, hosted at this link: https://zevrov.github.io/Alarm-Clock/
+Runs in browser: open the repository after downloading and double click index.html to open in your default web browser.
+hosted at this link: https://zevrov.github.io/Alarm-Clock/
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -38,7 +39,7 @@ Runs in browser, hosted at this link: https://zevrov.github.io/Alarm-Clock/
 
 <!-- GETTING STARTED -->
 ## Getting Started
-head over to 
+head over to https://zevrov.github.io/Alarm-Clock/ or follow the installation instructions.
 
 
 
