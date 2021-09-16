@@ -53,7 +53,7 @@ Click on the Set Alarm button to set your alarm with the selected time.
 
 To stop an alarm from going off or an active alarm click the Clear Alarm button
 
-The Snooze Button clears an active alarm, and sets it to 5 minutes from when you clicked Snooze.
+The Snooze Button clears the current alarm, and sets a new alarm to 5 minutes from when you clicked Snooze.
 
 
 <!-- CONTACT -->
