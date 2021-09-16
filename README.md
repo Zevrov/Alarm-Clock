@@ -26,7 +26,7 @@ hosted at this link: https://zevrov.github.io/Alarm-Clock/
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Alarm Clock ScreenShot][product-screenshot]](https://example.com) ![image](https://user-images.githubusercontent.com/46612966/133681007-9890c4a6-719f-4b68-8310-e4ae91e17c53.png)
+[![Alarm Clock ScreenShot] ![image](https://user-images.githubusercontent.com/46612966/133681007-9890c4a6-719f-4b68-8310-e4ae91e17c53.png)
 
 
 ### Built With
