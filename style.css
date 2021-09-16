@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+body,html {
+    padding: 0;
+    margin: 0;
+    background-color:black;
+}
+
+/* The clock styling */
+#clock {
+    font-family: 'Orbitron';
+    font-size: 15vw;
+    color:lawngreen;
+}
+
+/* Button styling for my Set, Clear, and Snooze */
+.button {
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    margin-left: 4px;
+    cursor: pointer;
+}
+
+/* Grouping the buttons together as a section under the date/time selector */
+.controls {
+    margin-top: 16px;
+}
+
+/* My set button color */
+.set {
+   background-color:firebrick;
+}
+
+/* My clear button color */
+.clear {
+    background-color:dodgerblue;
+}
+
+/* My snooze button color */
+.snooze {
+    background-color:forestgreen
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
