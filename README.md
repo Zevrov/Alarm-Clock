@@ -20,16 +20,12 @@
 </details>
 
 ## Installation
-Runs in browser, hosted at this link:
+Runs in browser, hosted at this link: https://zevrov.github.io/Alarm-Clock/
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+[![Alarm Clock ScreenShot][product-screenshot]](https://example.com) ![image](https://user-images.githubusercontent.com/46612966/133681007-9890c4a6-719f-4b68-8310-e4ae91e17c53.png)
 
 
 ### Built With
