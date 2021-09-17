@@ -39,9 +39,10 @@ function setAlarm() {
         const current = new Date();
         const timeToAlarm = new Date(alarmTime);
 
-        if (timeToAlarm > current) {
+         if (timeToAlarm > current) {
             const timeout = timeToAlarm.getTime() - current.getTime();
-            alarmTimeout = setTimeout(() => audio.play(), timeout);
+            alarmTimeout = setTimeout(() => {audio.play();
+                                             alert("ALARM");}, timeout);
             alert('Alarm set');
         } else {
             alert('Select a future time to set');
